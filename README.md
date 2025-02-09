@@ -41,9 +41,9 @@
 
 ## Ответ на задание
 
-[Ссылка на конфигурацию Ansible и README.md](https://github.com/VN351/ans-hw-4-code/tree/master)
-[Vector-role](https://github.com/VN351/vector-role/tree/master)
-[Lighthouse-role](https://github.com/VN351/lighthouse-role/tree/master)
+1.  [Ссылка на конфигурацию Ansible и README.md](https://github.com/VN351/ans-hw-4-code/tree/master)
+2.  [Vector-role](https://github.com/VN351/vector-role/tree/master)
+3.  [Lighthouse-role](https://github.com/VN351/lighthouse-role/tree/master)
 
 ### Как оформить решение задания
 
